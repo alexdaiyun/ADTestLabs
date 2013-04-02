@@ -19,7 +19,7 @@
 
 - (void)Startup
 {
- 
+    //开始
     [self CheckAndCreateDatabase];
 }
 
