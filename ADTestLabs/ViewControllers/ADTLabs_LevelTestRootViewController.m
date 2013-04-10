@@ -128,7 +128,7 @@
     cardButton_LevelMOCA.itemTotalText= @"15";
     cardButton_LevelMOCA.cardType = 1;
 
- 
+    //cardButton_LevelMOCA.enabled = false;
     
     
     
