@@ -288,7 +288,7 @@
 			name = ImageViewer;
 			sourceTree = "<group>";
 		};
-		CC7892E21647467800B960FA /* User */ = {
+		CC7892E21647467800B960FA /* User */ = {
 			isa = PBXGroup;
 			children = (
 				CC7892E716474DF200B960FA /* UserListViewController.h */,
@@ -390,7 +390,7 @@
 				CC54177F16DBA6E90060A535 /* ImageViewer */,
 				CC7ECD721651A75F004A54EA /* LBS */,
 				CCF4E34316503D1000D181C1 /* ScaleReport */,
-				CC7892E21647467800B960FA /* User */,
+				CC7892E21647467800B960FA /* User */,
 				CCCD2B30164565830071B55A /* TouchPainter */,
 				CCB128A31642F34300CAC59E /* Level_MOCA */,
 				CCB128A21642F33400CAC59E /* Level_MMSE */,
