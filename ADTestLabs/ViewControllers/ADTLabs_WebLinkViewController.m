@@ -93,6 +93,8 @@
     [activityIndicatorView setActivityIndicatorViewStyle: UIActivityIndicatorViewStyleWhite] ;
     [self.view addSubview : activityIndicatorView] ;
     
+    //aa
+    
     [self LoadUrl];
 }
 
